@@ -17,7 +17,7 @@ Mode: 21.5
 Standard Deviation: 9.224282678216689
 
 
-
+\n
 
 
 Midterm Grades
@@ -31,7 +31,7 @@ Mode: 13.0
 Standard Deviation: 4.0523608293292375
 
 
-
+\n
 
 
 Quiz One Grades
@@ -45,7 +45,7 @@ Mode: 5.0
 Standard Deviation: 2.408157276015165
 
 
-
+\n
 
 
 Quiz Two Grades
