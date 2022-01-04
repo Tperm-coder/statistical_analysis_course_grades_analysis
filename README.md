@@ -18,6 +18,8 @@ Standard Deviation: 9.224282678216689
 
 
 
+
+
 Midterm Grades
 
 Mean: 9.108545034642033
@@ -30,6 +32,8 @@ Standard Deviation: 4.0523608293292375
 
 
 
+
+
 Quiz One Grades
 
 Mean: 5.427330173775672
@@ -39,6 +43,8 @@ Median: 5.0
 Mode: 5.0
 
 Standard Deviation: 2.408157276015165
+
+
 
 
 
